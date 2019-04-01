@@ -5,8 +5,8 @@
 }
 div .photo {
   flex-basis: 300px;
-  /* width: 100%;
-  line-height: 400px; */
+  max-width: 100%;
+
   border: 1px solid yellow;
   margin: 15px;
 }
