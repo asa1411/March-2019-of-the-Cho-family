@@ -11,8 +11,10 @@ div .photo {
   margin: 15px;
 }
 div .photo .desc {
-  height: 100px;
+  height: 50px;
   text-align: center;
+
+  padding-top: 20px;
 }
 div .family {
   text-align: center;
